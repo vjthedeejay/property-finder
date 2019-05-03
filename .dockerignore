@@ -1,0 +1,7 @@
+listings.db
+__pycache__/
+.gitignore
+.git
+venv/
+.vscode
+Dockerfile
